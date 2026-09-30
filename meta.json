@@ -1,0 +1,212 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-09-30T12:25:12Z",
+ "ledger_date": "2026-09-24",
+ "as_of": "2026-09-24",
+ "ledger_min_first_seen": "2026-08-26",
+ "n_companies": 49612,
+ "n_postings": 4148693,
+ "min_postings": 1,
+ "excluded_boards": [
+  "dark"
+ ],
+ "boards": {
+  "ashby": {
+   "companies": 2843,
+   "postings": 69093
+  },
+  "bamboohr": {
+   "companies": 2548,
+   "postings": 25384
+  },
+  "breezy": {
+   "companies": 1226,
+   "postings": 40338
+  },
+  "comeet": {
+   "companies": 67,
+   "postings": 1648
+  },
+  "cornerstone": {
+   "companies": 316,
+   "postings": 39962
+  },
+  "crelate": {
+   "companies": 346,
+   "postings": 17363
+  },
+  "dayforce": {
+   "companies": 1426,
+   "postings": 117039
+  },
+  "eightfold": {
+   "companies": 79,
+   "postings": 24959
+  },
+  "gohire": {
+   "companies": 205,
+   "postings": 11971
+  },
+  "governmentjobs": {
+   "companies": 51,
+   "postings": 39476
+  },
+  "greenhouse": {
+   "companies": 4940,
+   "postings": 226581
+  },
+  "icims": {
+   "companies": 90,
+   "postings": 26866
+  },
+  "jazzhr": {
+   "companies": 405,
+   "postings": 9821
+  },
+  "jibe": {
+   "companies": 156,
+   "postings": 146458
+  },
+  "jobscore": {
+   "companies": 36,
+   "postings": 514
+  },
+  "jobvite": {
+   "companies": 14,
+   "postings": 1512
+  },
+  "join": {
+   "companies": 761,
+   "postings": 2493
+  },
+  "lever": {
+   "companies": 1839,
+   "postings": 87346
+  },
+  "oraclecloud": {
+   "companies": 116,
+   "postings": 195231
+  },
+  "paycom": {
+   "companies": 6047,
+   "postings": 176102
+  },
+  "paylocity": {
+   "companies": 8316,
+   "postings": 155260
+  },
+  "personio": {
+   "companies": 2903,
+   "postings": 30526
+  },
+  "phenom": {
+   "companies": 303,
+   "postings": 473628
+  },
+  "pinpoint": {
+   "companies": 341,
+   "postings": 16518
+  },
+  "recruitee": {
+   "companies": 2312,
+   "postings": 48168
+  },
+  "recruiterbox": {
+   "companies": 193,
+   "postings": 4274
+  },
+  "smartrecruiters": {
+   "companies": 925,
+   "postings": 389230
+  },
+  "softgarden": {
+   "companies": 777,
+   "postings": 37535
+  },
+  "successfactors": {
+   "companies": 57,
+   "postings": 37943
+  },
+  "taleo": {
+   "companies": 15,
+   "postings": 4017
+  },
+  "teamtailor": {
+   "companies": 1022,
+   "postings": 28669
+  },
+  "ukg": {
+   "companies": 2114,
+   "postings": 143262
+  },
+  "usajobs": {
+   "companies": 405,
+   "postings": 65455
+  },
+  "workable": {
+   "companies": 3141,
+   "postings": 94949
+  },
+  "workday": {
+   "companies": 3277,
+   "postings": 1359102
+  }
+ },
+ "examples": [
+  {
+   "board": "paycom",
+   "company": "A7135FEB489496034748EA1E5BF7C628",
+   "name": "Driftwood Hospitality Management",
+   "n_postings": 595,
+   "n_open": 265,
+   "n_reposted": 50,
+   "n_ghost": 2
+  },
+  {
+   "board": "smartrecruiters",
+   "company": "enviricorporation",
+   "name": "Enviri",
+   "n_postings": 501,
+   "n_open": 307,
+   "n_reposted": 22,
+   "n_ghost": 46
+  },
+  {
+   "board": "dayforce",
+   "company": "tcw",
+   "name": "Town and Country Foods",
+   "n_postings": 368,
+   "n_open": 183,
+   "n_reposted": 18,
+   "n_ghost": 28
+  },
+  {
+   "board": "greenhouse",
+   "company": "tripactions",
+   "name": "Navan",
+   "n_postings": 284,
+   "n_open": 208,
+   "n_reposted": 10,
+   "n_ghost": 43
+  },
+  {
+   "board": "dayforce",
+   "company": "hornblower",
+   "name": "Hornblower",
+   "n_postings": 305,
+   "n_open": 177,
+   "n_reposted": 9,
+   "n_ghost": 37
+  },
+  {
+   "board": "lever",
+   "company": "cscgeneration-2",
+   "name": "CSC Generation",
+   "n_postings": 578,
+   "n_open": 487,
+   "n_reposted": 8,
+   "n_ghost": 58
+  }
+ ],
+ "source": "https://github.com/elliottdehn/open-jobs (CC0-1.0)"
+}
